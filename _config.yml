@@ -7,6 +7,10 @@ execute:
 html:
   baseurl: "/guide4Researchers2"
   url: "https://AliceAl.github.io"
+sphinx:
+  config:
+    html_baseurl: "https://AliceAl.github.io/guide4Researchers2"
+
 # Add a bibtex file so that we can create citations
 #bibtex_bibfiles:
  # - references.bib
